@@ -6,7 +6,7 @@
 
 **基于 STM32F411 的多功能智能手表**
 
-[English](README_Eng.md) | 简体中文
+简体中文
 
 </div>
 
